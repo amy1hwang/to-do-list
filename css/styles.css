@@ -1,0 +1,17 @@
+#show-to-do {
+  display: none;
+}
+
+.toDo {
+  cursor: pointer;
+  color: pink;
+}
+
+.toDo:hover {
+  text-decoration: underline;
+}
+
+button {
+  color: lightblue;
+  background-color: black;
+}
